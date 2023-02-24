@@ -1,0 +1,3 @@
+echo "Hello world"
+read a
+echo $a
