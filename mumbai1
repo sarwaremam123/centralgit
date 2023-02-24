@@ -1,3 +1,6 @@
 echo "Hello world"
 read a
 echo $a
+echo "Hi my life"
+read life
+echo $life
