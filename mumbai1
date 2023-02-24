@@ -4,3 +4,6 @@ echo $a
 echo "Hi my life"
 read life
 echo $life
+echo "This is my first code from singapore"
+read b
+echo $b
